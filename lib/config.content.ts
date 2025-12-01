@@ -22,9 +22,9 @@ export const siteContent: SiteConfigSchema = {
     name: "GeoSphere Insights",
     description: "GeoSphere Insights delivers dynamic and interactive Earth science content, blending cutting-edge technology with engaging educational resources for geology enthusiasts, students, and professionals.",
     url: "https://geosphere-insights-blog.vercel.app",
-    logoPath: "/api/uploads/brands/1fbb4037-1eae-482d-996c-1354adbd16bb/logos/logo-1764608283404.png",
-    faviconPath: "/api/uploads/brands/1fbb4037-1eae-482d-996c-1354adbd16bb/logos/logo-1764608283404.png",
-    ogImagePath: "/api/uploads/brands/1fbb4037-1eae-482d-996c-1354adbd16bb/logos/logo-1764608283404.png",
+    logoPath: "/logo.jpg",
+    faviconPath: "/logo.jpg",
+    ogImagePath: "/logo.jpg",
     mainAppUrl: "https://app.thefaceless.ai"
   },
 
@@ -39,7 +39,7 @@ export const siteContent: SiteConfigSchema = {
     name: "GeoSphere Insights Team",
     bio: "GeoSphere Insights delivers dynamic and interactive Earth science content, blending cutting-edge technology with engaging educational resources for...",
     role: "Content Creator",
-    image: "/api/uploads/brands/1fbb4037-1eae-482d-996c-1354adbd16bb/logos/logo-1764608283404.png"
+    image: "/logo.jpg"
   },
 
   // Section headings throughout the site
